@@ -14,7 +14,7 @@ Desenvolvedor Full-Stack apaixonado por tecnologia, desafios e boas práticas de
 
 ## 🛠️ Tecnologias e Ferramentas
 
-💻 **Back-end:** Node.js | PHP | Laravel | Nest.js | Adonis | Sequelize | Prisma  
+💻 **Back-end:** Node.js | PHP | Laravel | Nest.js | Adonis | Sequelize | Prisma | Java | Spring | Golang 
 🌐 **Front-end:** Vue.js | React | Next.js | Nuxt | Bootstrap | Vuetify | Quasar  
 🗄️ **Banco de Dados:** MySQL | PostgreSQL | MongoDB | Firebird | Redis  
 🔧 **Ferramentas:** GitHub | Bitbucket | Swagger | JIRA | RabbitMQ | Kafka  
