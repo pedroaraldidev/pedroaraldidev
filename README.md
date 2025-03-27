@@ -14,14 +14,14 @@ Desenvolvedor Full-Stack apaixonado por tecnologia, desafios e boas práticas de
 
 ## 🛠️ Tecnologias e Ferramentas
 
-💻 Back-end: Node.js | PHP | Laravel | Nest.js | Adonis | Sequelize | Prisma | Java | Spring | Golang 
-🌐 Front-end: Vue.js | React | Next.js | Nuxt | Bootstrap | Vuetify | Quasar 
-🗄️ Banco de Dados: MySQL | PostgreSQL | MongoDB | Firebird | Redis 
-🔧 Ferramentas: GitHub | Bitbucket | GitHub Actions | Jira | Slack | ClickUp | Swagger | RabbitMQ | Kafka | WebSocket | GraphQL | n8n | DeepSeek | OpenAI | Pagar.me | API Gateway | Webhooks 
+💻 Back-end: Node.js | PHP | Laravel | Nest.js | Adonis | Sequelize | Prisma | Java | Spring | Golang
+🌐 Front-end: Vue.js | React | Next.js | Nuxt | Bootstrap | Vuetify | Quasar
+🗄️ Banco de Dados: MySQL | PostgreSQL | MongoDB | Firebird | Redis
+🔧 Ferramentas: GitHub | Bitbucket | GitHub Actions | Jira | Slack | ClickUp | Swagger | RabbitMQ | Kafka | WebSocket | GraphQL | n8n | DeepSeek | OpenAI | Pagar.me | API Gateway | Webhooks
 ✅ Testes: Jest | Vitest | PHPUnit | Apache JMeter | ESLint | Prettier 
-⚙️ Conceitos e Arquitetura: SOLID | Design Patterns | Clean Code | Clean Architecture | API Rest | Microfrontend | PWA | SPA | Serverless | CI/CD | DevOps | Mobile First | Responsive Design 
+⚙️ Conceitos e Arquitetura: SOLID | Design Patterns | Clean Code | Clean Architecture | API Rest | Microfrontend | PWA | SPA | Serverless | CI/CD | DevOps | Mobile First | Responsive Design
 📈 Metodologias: DevOps | Scrum | Kanban | BDD | TDD 
-🧠 Soft Skills: Comunicação | Resolução de Problemas | Trabalho em Equipe | Liderança | Facilidade em Aprender Algo Novo 
+🧠 Soft Skills: Comunicação | Resolução de Problemas | Trabalho em Equipe | Liderança | Facilidade em Aprender Algo Novo
 
 
 ---
