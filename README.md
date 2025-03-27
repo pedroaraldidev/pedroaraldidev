@@ -14,11 +14,15 @@ Desenvolvedor Full-Stack apaixonado por tecnologia, desafios e boas práticas de
 
 ## 🛠️ Tecnologias e Ferramentas
 
-💻 **Back-end:** Node.js | PHP | Laravel | Nest.js | Adonis | Sequelize | Prisma | Java | Spring | Golang  
-🌐 **Front-end:** Vue.js | React | Next.js | Nuxt | Bootstrap | Vuetify | Quasar  
-🗄️ **Banco de Dados:** MySQL | PostgreSQL | MongoDB | Firebird | Redis  
-🔧 **Ferramentas:** GitHub | Bitbucket | Swagger | JIRA | RabbitMQ | Kafka  
-✅ **Testes:** Jest | Vitest | PHPUnit | Apache JMeter  
+💻 Back-end: Node.js | PHP | Laravel | Nest.js | Adonis | Sequelize | Prisma | Java | Spring | Golang
+🌐 Front-end: Vue.js | React | Next.js | Nuxt | Bootstrap | Vuetify | Quasar
+🗄️ Banco de Dados: MySQL | PostgreSQL | MongoDB | Firebird | Redis
+🔧 Ferramentas: GitHub | Bitbucket | GitHub Actions | Jira | Slack | ClickUp | Swagger | RabbitMQ | Kafka | WebSocket | GraphQL | n8n | DeepSeek | OpenAI | Pagar.me | API Gateway | Webhooks
+✅ Testes: Jest | Vitest | PHPUnit | Apache JMeter | ESLint | Prettier
+⚙️ Conceitos e Arquitetura: SOLID | Design Patterns | Clean Code | Clean Architecture | API Rest | Microfrontend | PWA | SPA | Serverless | CI/CD | DevOps | Mobile First | Responsive Design
+📈 Metodologias: DevOps | Scrum | Kanban | BDD | TDD
+🧠 Soft Skills: Comunicação | Resolução de Problemas | Trabalho em Equipe | Liderança | Facilidade em Aprender Algo Novo
+
 
 ---
 
@@ -33,7 +37,7 @@ Desenvolvedor Full-Stack apaixonado por tecnologia, desafios e boas práticas de
 ---
 
 ## 📚 Aprendizado Contínuo
-Atualmente, estou aprimorando meus conhecimentos em **Clean Code, Arquitetura de Software e Sistemas Distribuídos**.
+Atualmente, estou aprimorando meus conhecimentos em **Arquitetura de Software, Java e Golang**.
 
 ---
 
